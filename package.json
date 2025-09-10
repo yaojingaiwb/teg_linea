@@ -1,0 +1,14 @@
+{
+    "name": "claim-and-transfer-script",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "license": "MIT",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "ethers": "^6.13.2"
+    }
+}
